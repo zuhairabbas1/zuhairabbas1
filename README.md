@@ -7,7 +7,7 @@
 ---
 
 ### 📌 About Me  
-- 🎓 **Computer Engineering Student** at *Queen’s University* (Expected Graduation: May 2027)  
+- 🎓 **Engineering Student** at *Queen’s University* (Expected Graduation: May 2027)  
 - 🔍 Passionate about **AI, Market Research, and Product Development**  
 - 🏆 Currently **co-developing a campus food delivery app** for Queen's University  
 - 📊 Former **Market Research Intern at Microbonds Inc.**, specializing in B2B lead generation  
